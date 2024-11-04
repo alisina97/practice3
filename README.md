@@ -43,3 +43,21 @@ Here is a prioritized list of user requirements for the IDEAverse analytics dash
 	•	Complexity: Very High — requires advanced data aggregation, drill-down capabilities, and may need integration with external data sources or enterprise systems.
 
 This prioritized approach allows the development team to start with simpler, individual-focused features and gradually build more complex, enterprise-level analytics, ensuring foundational components are solid before scaling up to advanced functionalities.
+
+
+Here is the source row number for each requirement based on the images:
+
+	1.	Usage Statistics for Individual Users (General User)
+	•	Source Row: 25
+	2.	Click Rate and Site Visit Analysis (Analytics for Challenge Organizer)
+	•	Source Row: 30
+	3.	Challenge Engagement Monitoring (Challenge Organizer)
+	•	Source Row: 52
+	4.	Topic Analysis Across Bank (Senior Leader)
+	•	Source Row: 51
+	5.	Pipeline Visualization for Innovation Activity (Senior Leader)
+	•	Source Row: 27
+	6.	Enterprise-Level Analytics for Platform Activity (Senior Leader)
+	•	Source Row: 39
+
+These row numbers correspond to the specific user stories from which each requirement was derived.
